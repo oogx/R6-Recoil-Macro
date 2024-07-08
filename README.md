@@ -6,6 +6,9 @@ Stopped working on this project about 5 months ago, so dont expect all recoil va
 >- Auto get and apply recoil values based on weapon and attachments.
 >- Swap between weapons and change to the recoil of secondary.
 >- Auto apply settings based of configs and last used weapon attachments.
+## Screenshot
+![Screenshot](image.png)
+
 ## Credits
 
 Research and posts that helped develop this project:
