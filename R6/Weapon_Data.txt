@@ -1,0 +1,2 @@
+{ "Ash", "G36C", { "1.5x Scope", "Vertical", "Flash Hider" } },
+{ "Ash", "5.7 USG", { "None", "None", "Suppressor" } },
